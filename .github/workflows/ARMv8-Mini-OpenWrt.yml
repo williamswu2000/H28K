@@ -3,7 +3,7 @@ name: ARMv8 Mini OpenWrt
 on:
   workflow_dispatch:
   #schedule:
-  #  - cron: 0 20 * * *
+  #  - cron: 0 20
 
 env:
   REPO_URL: https://github.com/coolsnowwolf/lede
